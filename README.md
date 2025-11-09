@@ -5,12 +5,13 @@ showing camera locations, orientations, and preview photo thumbnails.
 
 How to use:
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- 1. Download the "GeoPhoto2KML_V1.0.zip" and unzip the folder in your local computer.
- 2. Launch the "GeoPhoto2KML.exe".
- 3. Click "Select Folder" and navigate to your geotagged photos directory.
- 4. The application automatically creates a ".kmz" file in the same folder.
- 5. Open the ".kmz" file in Google Earth manually, or accept the auto-open prompt.
- 6. Click any camera icon with cone direction to see the embedded photo popup.
+ 1. Download the GeoPhoto2KML_V1.0 from Download Button below.
+ 2. Unzip the folder in your local computer.
+ 3. Launch the "GeoPhoto2KML.exe".
+ 4. Click "Select Folder" and navigate to your geotagged photos directory.
+ 5. The application automatically creates a ".kmz" file in the same folder.
+ 6. Open the ".kmz" file in Google Earth manually, or accept the auto-open prompt.
+ 7. Click any camera icon with cone direction to see the embedded photo popup.
 
 🌍 Example Output:
 -----------------------------------------------------------------------------------------------------
